@@ -11,7 +11,7 @@
 
 ## Focus
 
-Research and development of projects at the intersection of crypto and AI.
+Research and development at the intersection of crypto and AI.
 
 ## Featured Projects
 
