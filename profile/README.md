@@ -19,7 +19,7 @@ Research and development of projects at the intersection of crypto and AI.
 - [**ic-automaton**](https://github.com/0x21e8/ic-automaton)  
   An exeriment in artificial sovereignity.
 
-- [**paw**](https://github.com/0x21e8/agent-wallet)  
+- [**paw**](https://github.com/0x21e8/paw)  
   Policy-controlled personal agent wallet.
 
 - [**0x21.finance**](https://github.com/0x21e8/0x21)  
