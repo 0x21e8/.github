@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0x21e8?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/0x21e8?style=for-the-badge"></a>
   <a href="https://github.com/0x21e8?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repositories-Open%20Source-1f6feb?style=for-the-badge"></a>
   <a href="https://github.com/0x21e8"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=0x21e8&style=for-the-badge"></a>
 </p>
